@@ -5,7 +5,7 @@ Coronavirus disease 2019 (COVID-19), the respiratory ailment responsible for the
 
 This virus has swept the globe since its discovery in Wuhan, China, in December 2019. Some people prefer to focus on the good aspects of the situation, such as how the epidemic has resulted in numerous positive improvements. However, the collateral harm caused by this pandemic cannot be underestimated.
 
-This dataset if taken from woldometers.info
+This dataset is taken from woldometers.info
 
 This dataset includes 225 nations.
 
